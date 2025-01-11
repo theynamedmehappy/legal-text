@@ -1,9 +1,9 @@
 import streamlit as st
-import pandas as pd
-import numpy as np
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.preprocessing import LabelEncoder
-from xgboost import XGBClassifier
+#import pandas as pd
+#import numpy as np
+#from sklearn.feature_extraction.text import TfidfVectorizer
+#from sklearn.preprocessing import LabelEncoder
+#from xgboost import XGBClassifier
 import pickle
 
 # Load pre-trained model and vectorizer
